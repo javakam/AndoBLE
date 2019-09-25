@@ -15,7 +15,6 @@ import android.content.ServiceConnection;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
-import android.telephony.mbms.MbmsErrors;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
